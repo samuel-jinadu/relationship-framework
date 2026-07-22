@@ -1,4 +1,3 @@
-
 # A "Relationships" Framework
 
 ## Goals
@@ -55,17 +54,11 @@ The point was to make a framework for conceptualising intimacy that works outsid
 - **Speaker**: complexity of context and intensity of emotional pain
 - **Audience**: sustaining restraint and self-regulation across the waiting period before your cued turn
 
-### What Counts as a Challenge in Collective Effervescence 
-produces a phenomenologically similar loss of self-consciousness, but via a different mechanism (density + synchrony + positive feedback, not challenge-skill matching) — treat it as a cousin of flow, not the same mechanism wearing a crowd costume.
-
 
 
 ## Paths to Intimacy
 *The path depends loosely on the number of participants but mutiple paths can have a similar range*
 
-### Projected Intimacy/Intimacy-as-feeing [No. of participants = 1]
-- This one is completely self-made, it could be an attachment to a place, a situation, a substance, an idea, an image, a one-way parasocial relationship, whatever...
-- It requires only a single sentient mind.
 
 ### Perceived Partner Responsiveness (PPR or Vanilla PPR) [No. of participants => 2 < x < 3]
 - This one is based on feeling safe, validated, and helped (without losing autonomy) due to the behaviours/speech of an other
@@ -120,18 +113,6 @@ produces a phenomenologically similar loss of self-consciousness, but via a diff
 - **Non-engagement**
    1. This behaviour is a failure to use the appropriate channel and should not be reinforced, in order to encourage assertiveness or direct negotiation instead.
 
-### Coerced PPR [No. of participants = 2]
-- Abuse masquerading as intimacy and the brain accepts since it can't tell the difference anyways
-- It is fundametally dyadic
-
-#### Requirements
-- **Structural exit-denial**: the vulnerable party cannot leave without incurring a significant cost (losing income, housing, physical safety, social standing) — this is what makes it categorically different from a bad but escapable relationship, which is just ordinary failed Vanilla PPR, not Coerced PPR.
-- **Real-not-projected counterpart behavior**: the other party is doing something concrete and observable (approval, protection-adjacent action, resource-dispensing) — this is what separates it from Projected Intimacy, where there's no real counterpart action at all, just internal generation.
-
-#### Functional Relations
-- **Protection Racket** (mimics Safety) — the system is the source of threat and the "object" periodic reliever of it.
-- **Conditional Approval** (mimics Validation) — approval tied to compliance with the system's Canon
-- **Ritual Supplication / Conditional Dispensation** (mimics Giving) — needs are met only through a performed ritual, never autonomously, and the coercer retains unilateral right to withhold. the resource (help, resources, care) arrives unpredictably, contingent on performance
 
 
 ### Impersonal Intimacy/Interaction Ritual [No. of participants => from 2 upwards but less than a crowd]
@@ -174,17 +155,6 @@ produces a phenomenologically similar loss of self-consciousness, but via a diff
    - **Audience**: might listen. might laugh. might just watch. depends on the mood. but must never interrupt.
 - **Shared Mood/Emotion**: the roles must produce "flow" in all participants
 - **Barriers to outsiders**: this is because there are limits to how many people can participant before its no longer feasible for everyone to get a turn with running out of time.
-
-
-### Collective Effervesense [No. of participants = crowd]
-- This one is based on feeling "one with the crowd"
-- A "crowd" is phenomenon where the number of people fills the capacity of space available
-- Core mechanisms
-   - **Shared Focus**: Everyone is paying attention to the same thing (the band, the speaker) and feels a sense of "us," even if temporary.
-   - **Shared Identity**: This one is more based on everyone having collective belief that they are "together" in this and there are no outsiders, in fact i think its more about there being no outsiders rather than about absolute shared identity
-   - Synchronized Movement: The activities involve bodily sync—clapping, chanting, dancing, cheering in unison, or calling for the genocide of an underclass or "other". This physical connection is crucial.
-   - Crowd density: The environment must feel dense and at capacity. Twenty-five people in a small apartment feels like a crowd; the same number in a stadium does not. The physical constraints of the space are key.
-- An example would be watching live sports in a packed stadium and cheering as one
 
 
 ## Relevant Oppressive Systems
